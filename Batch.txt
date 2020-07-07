@@ -1,0 +1,4 @@
+D:\apache-jmeter-5.3\apache-jmeter-5.3\bin>jmeter -n -t 
+D:\JmeterBlazeScripts\Jul6th\CSSEMEA5.jmx -l 
+D:\JmeterBlazeScripts\EMEACSSJune4th\CRM\resultcss.csv -e -o 
+D:\JmeterBlazeScripts\HTMLReports\
